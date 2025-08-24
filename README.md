@@ -1,3 +1,8 @@
+Archived
+======================================================================
+Visit UCL Repo for latest commits
+https://github.com/ucl-isd/moodle-mod_coursework
+
 Coursework Activity
 ======================================================================
 Copyright University of London.
